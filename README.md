@@ -1,1 +1,1 @@
-A simple Black-jack game made with HTML. CSS, JavaScript
+# 21Quest
